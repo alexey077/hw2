@@ -1,0 +1,15 @@
+https://www.google.com
+https://www.python.org
+https://github.com
+https://fastapi.tiangolo.com
+https://docs.python.org
+https://www.wikipedia.org
+https://www.yandex.ru
+https://habr.com
+https://www.stackoverflow.com
+https://pypi.org
+
+https://this-domain-definitely-does-not-exist-12345.com
+https://invalid.invalid
+http://256.256.256.256
+https://no-such-site-abcde-xyz.net
